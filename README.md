@@ -1,0 +1,2 @@
+# Baitappythoncuanhom
+Bài tập python 
